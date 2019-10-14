@@ -6,6 +6,6 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>C:\Users\Sujit.Kadam\source\repos\AVDemo_MVC\Publish</_PublishTargetUrl>
+    <_PublishTargetUrl>C:\Sujit_Workspace\AVDemoApp\Publish</_PublishTargetUrl>
   </PropertyGroup>
 </Project>

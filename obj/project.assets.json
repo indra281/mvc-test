@@ -2601,6 +2601,15 @@
           }
         }
       },
+      "nClam/4.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/nClam.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/nClam.dll": {}
+        }
+      },
       "NETStandard.Library/2.0.3": {
         "type": "package",
         "dependencies": {
@@ -6940,6 +6949,19 @@
         "runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll",
         "useSharedDesignerContext.txt",
         "version.txt"
+      ]
+    },
+    "nClam/4.0.1": {
+      "sha512": "c3ZGzpL5j1SJr8HTwXPCabfcKxz3OvbPHrQKp2m67V8U5gy/b+zNfpbfDSvNAdW5uQ8nsS8e1aNlphj5VyXbVA==",
+      "type": "package",
+      "path": "nclam/4.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/nClam.dll",
+        "lib/netstandard2.0/nClam.dll",
+        "nclam.4.0.1.nupkg.sha512",
+        "nclam.nuspec"
       ]
     },
     "NETStandard.Library/2.0.3": {
@@ -11800,7 +11822,8 @@
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
-      "Microsoft.NETCore.App >= 2.1.0"
+      "Microsoft.NETCore.App >= 2.1.0",
+      "nClam >= 4.0.1"
     ]
   },
   "packageFolders": {
@@ -11810,11 +11833,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sujit.Kadam\\source\\repos\\AVDemo_MVC\\AVDemo_MVC\\AVDemo_MVC.csproj",
-      "projectName": "AVDemo_MVC",
-      "projectPath": "C:\\Users\\Sujit.Kadam\\source\\repos\\AVDemo_MVC\\AVDemo_MVC\\AVDemo_MVC.csproj",
+      "projectUniqueName": "C:\\Sujit_Workspace\\AVDemoApp\\AVDemoApp\\AVDemoApp.csproj",
+      "projectName": "AVDemoApp",
+      "projectPath": "C:\\Sujit_Workspace\\AVDemoApp\\AVDemoApp\\AVDemoApp.csproj",
       "packagesPath": "C:\\Users\\Sujit.Kadam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sujit.Kadam\\source\\repos\\AVDemo_MVC\\AVDemo_MVC\\obj\\",
+      "outputPath": "C:\\Sujit_Workspace\\AVDemoApp\\AVDemoApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11859,6 +11882,10 @@
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
+          },
+          "nClam": {
+            "target": "Package",
+            "version": "[4.0.1, )"
           }
         },
         "imports": [

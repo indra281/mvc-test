@@ -1,0 +1,13 @@
+C:\Sujit_Workspace\AVDemoApp\AVDemoApp\bin\Debug\netcoreapp2.1\AVDemoApp.deps.json
+C:\Sujit_Workspace\AVDemoApp\AVDemoApp\bin\Debug\netcoreapp2.1\AVDemoApp.runtimeconfig.json
+C:\Sujit_Workspace\AVDemoApp\AVDemoApp\bin\Debug\netcoreapp2.1\AVDemoApp.runtimeconfig.dev.json
+C:\Sujit_Workspace\AVDemoApp\AVDemoApp\bin\Debug\netcoreapp2.1\AVDemoApp.dll
+C:\Sujit_Workspace\AVDemoApp\AVDemoApp\bin\Debug\netcoreapp2.1\AVDemoApp.pdb
+C:\Sujit_Workspace\AVDemoApp\AVDemoApp\obj\Debug\netcoreapp2.1\AVDemoApp.csproj.CoreCompileInputs.cache
+C:\Sujit_Workspace\AVDemoApp\AVDemoApp\obj\Debug\netcoreapp2.1\AVDemoApp.RazorAssemblyInfo.cache
+C:\Sujit_Workspace\AVDemoApp\AVDemoApp\obj\Debug\netcoreapp2.1\AVDemoApp.RazorAssemblyInfo.cs
+C:\Sujit_Workspace\AVDemoApp\AVDemoApp\obj\Debug\netcoreapp2.1\AVDemoApp.AssemblyInfoInputs.cache
+C:\Sujit_Workspace\AVDemoApp\AVDemoApp\obj\Debug\netcoreapp2.1\AVDemoApp.AssemblyInfo.cs
+C:\Sujit_Workspace\AVDemoApp\AVDemoApp\obj\Debug\netcoreapp2.1\AVDemoApp.RazorTargetAssemblyInfo.cache
+C:\Sujit_Workspace\AVDemoApp\AVDemoApp\obj\Debug\netcoreapp2.1\AVDemoApp.dll
+C:\Sujit_Workspace\AVDemoApp\AVDemoApp\obj\Debug\netcoreapp2.1\AVDemoApp.pdb
